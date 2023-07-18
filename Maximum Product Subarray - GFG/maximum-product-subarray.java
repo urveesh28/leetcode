@@ -31,24 +31,20 @@ class Solution {
         long maxproduct1=Long.MIN_VALUE;
         long maxproduct2=Long.MIN_VALUE;
         long product=1;
-        for(int i=0,j=0;j<n;){
+        for(int j=0;j<n;j++){
             product=product*arr[j];
             maxproduct1=Math.max(maxproduct1,product);
-            if(arr[j]==0){
-                i=j;
+            if(product==0){
                 product=1;
             }
-            j++;
         }
         product=1;
-        for(int i=n-1,j=n-1;j>=0;){
+        for(int j=n-1;j>=0;j--){
             product=product*arr[j];
             maxproduct2=Math.max(maxproduct2,product);
-            if(arr[j]==0){
-                i=j;
+            if(product==0){
                 product=1;
             }
-            j--;
         }
         return Math.max(maxproduct1,maxproduct2);
     }
