@@ -1,15 +1,21 @@
 class Solution {
     public int findPeakElement(int[] arr) {
-        //using linear search
+        int low=0,end=arr.length-1,mid=0;
         if(arr.length==1)return 0;
-        int maxval=Integer.MIN_VALUE;
-        int maxindex=-1;
-        for(int i=0;i<arr.length;i++){
-            if(maxval<arr[i]){
-                maxval=arr[i];
-                maxindex=i;
+        while(low<end){
+            mid=low+(end-low)/2;
+            
+            
+            if(arr[mid]<arr[mid+1]){
+                low=mid+1;
             }
+
+            else{
+                end=mid;
+            }
+
+            
         }
-        return maxindex;
+        return low;
     }
 }
