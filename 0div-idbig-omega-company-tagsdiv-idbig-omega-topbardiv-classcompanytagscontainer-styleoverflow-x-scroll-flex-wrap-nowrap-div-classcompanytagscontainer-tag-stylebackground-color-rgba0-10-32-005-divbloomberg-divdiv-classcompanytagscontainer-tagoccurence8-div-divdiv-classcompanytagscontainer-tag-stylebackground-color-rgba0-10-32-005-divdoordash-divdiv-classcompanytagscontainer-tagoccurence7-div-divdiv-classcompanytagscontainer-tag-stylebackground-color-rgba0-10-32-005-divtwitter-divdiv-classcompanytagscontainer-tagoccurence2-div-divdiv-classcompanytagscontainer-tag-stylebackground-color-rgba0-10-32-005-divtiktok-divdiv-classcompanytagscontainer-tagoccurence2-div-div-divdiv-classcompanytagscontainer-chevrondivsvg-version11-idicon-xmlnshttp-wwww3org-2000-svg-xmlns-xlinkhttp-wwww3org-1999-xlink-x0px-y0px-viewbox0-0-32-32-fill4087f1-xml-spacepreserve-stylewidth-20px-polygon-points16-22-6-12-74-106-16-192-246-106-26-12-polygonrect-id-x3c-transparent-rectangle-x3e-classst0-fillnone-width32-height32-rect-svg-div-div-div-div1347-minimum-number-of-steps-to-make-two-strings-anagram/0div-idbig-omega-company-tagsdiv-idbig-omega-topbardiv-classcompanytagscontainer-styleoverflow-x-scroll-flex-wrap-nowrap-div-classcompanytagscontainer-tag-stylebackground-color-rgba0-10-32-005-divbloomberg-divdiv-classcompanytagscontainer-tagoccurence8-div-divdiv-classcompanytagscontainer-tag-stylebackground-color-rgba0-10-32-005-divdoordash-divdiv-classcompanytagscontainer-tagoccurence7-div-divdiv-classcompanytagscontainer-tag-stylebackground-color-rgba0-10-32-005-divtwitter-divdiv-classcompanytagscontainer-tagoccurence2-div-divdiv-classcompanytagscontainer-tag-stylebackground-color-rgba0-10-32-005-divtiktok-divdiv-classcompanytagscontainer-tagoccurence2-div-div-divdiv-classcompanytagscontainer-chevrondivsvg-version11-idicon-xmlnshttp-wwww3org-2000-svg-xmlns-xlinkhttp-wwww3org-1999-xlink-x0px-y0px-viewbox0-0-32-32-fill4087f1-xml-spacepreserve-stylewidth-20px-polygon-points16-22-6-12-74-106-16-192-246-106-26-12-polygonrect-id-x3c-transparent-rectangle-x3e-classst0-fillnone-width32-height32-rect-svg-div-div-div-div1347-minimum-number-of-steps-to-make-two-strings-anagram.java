@@ -1,5 +1,6 @@
 class Solution {
     public int minSteps(String s, String t) {
+        /*
         Map<Character,Integer> map1=new HashMap<>();
         Map<Character,Integer> map2=new HashMap<>();
         for(int i=0;i<s.length();i++){
@@ -17,6 +18,21 @@ class Solution {
                 count+=(map1.get(ch)-map2.getOrDefault(ch,0));
             }
         }
-        return count;
+        */
+        
+        //better approach
+        int dp[] = new int[26];
+        int n = s.length();
+        for(int i = 0; i<n; i++){
+            dp[s.charAt(i) - 'a']++;
+            dp[t.charAt(i) - 'a']--;
+        }
+
+        int count = 0;
+        for(int i = 0; i<26; i++){
+            count += Math.abs(dp[i]);
+        }
+
+        return count/2;
     }
 }
