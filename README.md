@@ -14,3 +14,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/urveesh28/leetcode/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/urveesh28/leetcode/tree/master/0344-reverse-string) |
