@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -53,3 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
