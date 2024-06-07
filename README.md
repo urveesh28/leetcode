@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
 # Simulation
 |  |
@@ -58,4 +61,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+# Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
