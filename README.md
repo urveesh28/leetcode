@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
+| [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 # Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 # Counting
 |  |
 | ------- |
