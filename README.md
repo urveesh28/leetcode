@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
@@ -84,3 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
