@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -100,3 +103,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
