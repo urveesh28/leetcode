@@ -42,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Sorting
 |  |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Greedy
 |  |
@@ -125,3 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
