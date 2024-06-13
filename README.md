@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/urveesh28/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Matrix
 |  |
