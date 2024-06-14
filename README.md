@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/urveesh28/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Sorting
 |  |
@@ -132,3 +133,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/urveesh28/leetcode/tree/master/0112-path-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/urveesh28/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+# Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/urveesh28/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+# Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/urveesh28/leetcode/tree/master/0813-all-paths-from-source-to-target) |
