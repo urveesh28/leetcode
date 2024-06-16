@@ -2,11 +2,8 @@ class Solution {
     public List<String> printVertically(String s) {
         List<String> list=new ArrayList<>();
         String[] arr=s.split(" ");
-        System.out.println(Arrays.toString(arr));
-
-        //how
-        //are
-        //you
+        
+        //can be done using StringBuilder
         int no_of_words=0;
         for(String str : arr){
             no_of_words=Math.max(no_of_words,str.length());
