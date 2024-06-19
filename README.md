@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/urveesh28/leetcode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [1449-print-words-vertically](https://github.com/urveesh28/leetcode/tree/master/1449-print-words-vertically) |
+| [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/urveesh28/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 # Tree
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 # Counting
