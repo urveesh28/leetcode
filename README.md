@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/urveesh28/leetcode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/urveesh28/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1449-print-words-vertically](https://github.com/urveesh28/leetcode/tree/master/1449-print-words-vertically) |
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/urveesh28/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
