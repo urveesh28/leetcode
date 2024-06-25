@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/urveesh28/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/urveesh28/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/urveesh28/leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 # Divide and Conquer
 |  |
 | ------- |
