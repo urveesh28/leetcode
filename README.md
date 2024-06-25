@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/urveesh28/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/urveesh28/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/urveesh28/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/urveesh28/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/urveesh28/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/urveesh28/leetcode/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/urveesh28/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/urveesh28/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/urveesh28/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/urveesh28/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/urveesh28/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/urveesh28/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/urveesh28/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/urveesh28/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/urveesh28/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/urveesh28/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/urveesh28/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
