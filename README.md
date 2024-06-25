@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/urveesh28/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/urveesh28/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2727-number-of-senior-citizens](https://github.com/urveesh28/leetcode/tree/master/2727-number-of-senior-citizens) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/urveesh28/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2603-reward-top-k-students](https://github.com/urveesh28/leetcode/tree/master/2603-reward-top-k-students) |
+| [2727-number-of-senior-citizens](https://github.com/urveesh28/leetcode/tree/master/2727-number-of-senior-citizens) |
 # Tree
 |  |
 | ------- |
