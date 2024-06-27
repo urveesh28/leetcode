@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/urveesh28/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1916-find-center-of-star-graph](https://github.com/urveesh28/leetcode/tree/master/1916-find-center-of-star-graph) |
 # Sliding Window
 |  |
 | ------- |
