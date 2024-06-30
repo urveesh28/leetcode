@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2379-maximum-total-importance-of-roads](https://github.com/urveesh28/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
