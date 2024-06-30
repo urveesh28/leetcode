@@ -215,4 +215,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+## Enumeration
+|  |
+| ------- |
+| [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
