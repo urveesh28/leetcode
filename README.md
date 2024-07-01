@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1293-three-consecutive-odds](https://github.com/urveesh28/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
