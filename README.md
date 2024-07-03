@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urveesh28/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -247,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/urveesh28/leetcode/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urveesh28/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
