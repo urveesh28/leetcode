@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/urveesh28/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/urveesh28/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/urveesh28/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
