@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 ## Enumeration
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/urveesh28/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
