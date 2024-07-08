@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/urveesh28/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/urveesh28/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/urveesh28/leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 ## Enumeration
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/urveesh28/leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/urveesh28/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 ## Matrix
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/urveesh28/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -343,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
