@@ -372,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/urveesh28/leetcode/tree/master/2846-robot-collisions) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/urveesh28/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
