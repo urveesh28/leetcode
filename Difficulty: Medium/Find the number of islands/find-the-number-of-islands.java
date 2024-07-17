@@ -30,10 +30,8 @@ class GFG {
 class Solution {
     // Function to find the number of islands.
     
-    //directions
-    //public static int[][] arr={{-1,-1},{0,-1},{1,-1},{1,0},{1,1},{0,1},{1,1},{-1,0}};
-    
-    private static void dfs(char[][] grid,int i,int j,boolean[][] visit){
+    //using dfs
+    /*private static void dfs(char[][] grid,int i,int j,boolean[][] visit){
         if(i>=grid.length || j>=grid[0].length || i<0 || j<0 || visit[i][j]==true || 
         grid[i][j]=='0'){
             return;
@@ -51,6 +49,36 @@ class Solution {
         dfs(grid,i,j-1,visit);
         
         
+    }*/
+    
+    
+    //using bfs
+    private static void bfs(char[][] grid,int i,int j,boolean[][] visited){
+        visited[i][j]=true;
+        
+        int[] a=new int[2];
+        a[0]=i;a[1]=j;
+        
+        Queue<int[]> q=new LinkedList<>();
+        q.offer(a);
+        
+        while(!q.isEmpty()){
+            int[] b=q.poll();
+            
+            //adjacency
+            for(int delrow=-1;delrow<=1;delrow++){
+                for(int delcol=-1;delcol<=1;delcol++){
+                    int row=b[0]+delrow;
+                    int col=b[1]+delcol;
+                    
+                    if(row>=0 && row<grid.length && col>=0 && col<grid[0].length && 
+                    visited[row][col]==false && grid[row][col]=='1'){
+                        visited[row][col]=true;
+                        q.offer(new int[]{row,col});
+                    }
+                }
+            }
+        }
     }
     
     public int numIslands(char[][] grid) {
@@ -63,7 +91,7 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(visit[i][j]==false && grid[i][j]=='1'){
-                    dfs(grid,i,j,visit);
+                    bfs(grid,i,j,visit);
                     count++;
                 }
             }
