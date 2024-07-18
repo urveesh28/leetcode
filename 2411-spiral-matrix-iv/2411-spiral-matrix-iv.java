@@ -10,60 +10,53 @@
  */
 class Solution {
     
-    private static List<Integer> helper(ListNode head){
-        List<Integer> ans=new ArrayList<>();
-        while(head!=null){
-            ans.add(head.val);
-            head=head.next;
-        }
-        return ans;
-    }
-    
     public int[][] spiralMatrix(int m, int n, ListNode head) {
         
-        List<Integer> ans=helper(head);
-        System.out.println(ans);
-        int[][] mat=new int[m][n];
+        int[][] mat=new int[m][];
+        
+        for(int i=0;i<m;i++){
+            mat[i]=new int[n];
+            Arrays.fill(mat[i],-1);
+        }
 
         int rs=0;
         int cs=0;
         int re=m-1;
         int ce=n-1;
 
-        ListNode temp=head;
-        int k=0;
+        
         while(rs<=re && cs<=ce){
             
         //right
-        for(int i=cs;i<=ce;i++){
-            mat[rs][i]=(k<ans.size()?ans.get(k):-1);
-            k++;
+        for(int i=cs;i<=ce && head!=null;i++){
+            mat[rs][i]=head.val;
+            head=head.next;
         }
 
         rs++;
         
         //down
-        for(int i=rs;i<=re;i++){
-            mat[i][ce]=(k<ans.size()?ans.get(k):-1);
-            k++;
+        for(int i=rs;i<=re && head!=null;i++){
+            mat[i][ce]=head.val;
+            head=head.next;
         }
 
         ce--;
 
         //left
         if(rs<=re){
-            for(int i=ce;i>=cs;i--){
-                mat[re][i]=(k<ans.size()?ans.get(k):-1);
-                k++;
+            for(int i=ce;i>=cs && head!=null;i--){
+                mat[re][i]=head.val;
+                head=head.next;
             }
             re--;
         }
 
         //up
         if(cs<=ce){
-            for(int i=re;i>=rs;i--){
-                mat[i][cs]=(k<ans.size()?ans.get(k):-1);
-                k++;
+            for(int i=re;i>=rs && head!=null;i--){
+                mat[i][cs]=head.val;
+                head=head.next;
             }
             cs++;
         }
