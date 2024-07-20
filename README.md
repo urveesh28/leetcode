@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urveesh28/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/urveesh28/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urveesh28/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urveesh28/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2411-spiral-matrix-iv](https://github.com/urveesh28/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Tree
 |  |
