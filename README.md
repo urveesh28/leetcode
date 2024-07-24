@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
+| [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/urveesh28/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -409,4 +411,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
