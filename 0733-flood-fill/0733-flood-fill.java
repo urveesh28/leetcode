@@ -1,5 +1,6 @@
 class Solution {
     
+    /* using BFS
     private static void bfs(int[][] img,int i,int j,int newColor,int oldColor,boolean[][] visited){
         
         //for 4 directions
@@ -37,11 +38,41 @@ class Solution {
 
     }
 
+    */
+
+    //using DFS
+    
+    //4 directions
+    public static int[] delrow={-1,0,0,1};
+    public static int[] delcol={0,-1,1,0};
+
+    private static void dfs(int[][] img,boolean[][] visited,int i,int j,int newColor,int oldColor){
+        //conditions
+        if(i<0 || i>=img.length || j<0 || j>=img[0].length || visited[i][j]==true
+        || img[i][j]!=oldColor){
+            return;
+        }
+
+        //mark cell visited
+        visited[i][j]=true;
+        
+        //
+        img[i][j]=newColor;
+
+        //calls
+        for(int k=0;k<4;k++){
+            int nrow=i+delrow[k];
+            int ncol=j+delcol[k];
+
+            dfs(img,visited,nrow,ncol,newColor,oldColor);
+        }
+    }
+
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        //using bfs
+        
         boolean[][] visited=new boolean[image.length][image[0].length];
         int oldColor=image[sr][sc];
-        bfs(image,sr,sc,color,oldColor,visited);
+        dfs(image,visited,sr,sc,color,oldColor);
         return image;
     }
 }
