@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urveesh28/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/urveesh28/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urveesh28/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/urveesh28/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/urveesh28/leetcode/tree/master/0817-design-hashmap) |
@@ -450,10 +453,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
