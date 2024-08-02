@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/urveesh28/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/urveesh28/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3312-number-of-changing-keys](https://github.com/urveesh28/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
