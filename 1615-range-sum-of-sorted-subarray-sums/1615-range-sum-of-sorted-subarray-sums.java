@@ -4,23 +4,21 @@ class Solution {
         //brute force as contraints are small
         long csum=0;
         long mod=1000000007;
-        List<Integer> ans=new ArrayList<>();
-        
+        int[] ans=new int[n*(n+1)/2];
+        int k=0;
+
         for(int i=0;i<n;i++){
+            long sum=0;
             for(int j=i;j<n;j++){
-                long sum=0;
-                for(int k=i;k<=j;k++){
-                    sum+=nums[k];
-                }
-                sum=sum%mod;
-                ans.add((int)sum);
+                sum+=nums[j];
+                ans[k++]=(int)sum;
             }
         }
 
-        ans.sort((a,b)->(a-b));
+        Arrays.sort(ans);
         
         for(int i=left-1;i<right;i++){
-            csum+=ans.get(i);
+            csum=(csum+ans[i])%mod;
         }
 
         return (int)(csum%mod);
