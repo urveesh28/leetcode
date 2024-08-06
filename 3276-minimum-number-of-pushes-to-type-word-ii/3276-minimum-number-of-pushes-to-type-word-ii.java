@@ -1,12 +1,3 @@
-class Pair{
-    char ch;
-    int count;
-
-    public Pair(char ch,int count){
-        this.ch=ch;
-        this.count=count;
-    }
-}
 
 class Solution {
     public int minimumPushes(String word) {
@@ -28,16 +19,16 @@ class Solution {
         Arrays.sort(arr);
         int c=0;
         int count=1;
-        int d=0;
+        k=0;
 
         
 
         for(int i=arr.length-1;i>=0;i--){
-            if(d%8==0 && d>0){
+            if(k%8==0 && k>0){
                 count++;
             }
             c+=(arr[i]*count);
-            d++;
+            k++;
         }
 
         return c;
