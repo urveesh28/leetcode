@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urveesh28/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
