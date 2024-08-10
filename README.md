@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urveesh28/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urveesh28/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
