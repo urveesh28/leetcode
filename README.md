@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/urveesh28/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urveesh28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/urveesh28/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
