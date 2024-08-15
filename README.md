@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/urveesh28/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/urveesh28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/urveesh28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/urveesh28/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/urveesh28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/urveesh28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
