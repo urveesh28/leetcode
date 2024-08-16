@@ -14,27 +14,25 @@
  * }
  */
 class BSTIterator {
-
-    Queue<Integer> q;
-    
-    private static void preOrder(TreeNode root,Queue<Integer> q){
+    List<Integer> ans;
+    private static void inOrder(TreeNode root,List<Integer> ans){
         if(root==null)return;
-        q.offer(root.val);
-        preOrder(root.left,q);
-        preOrder(root.right,q);
+        inOrder(root.left,ans);
+        ans.add(root.val);
+        inOrder(root.right,ans);
     }
     
     public BSTIterator(TreeNode root) {
-        q=new PriorityQueue<>((a,b)->(a-b));
-        preOrder(root,q);
+        ans=new ArrayList<>();
+        inOrder(root,ans);
     }
     
     public int next() {
-        return q.poll();
+        return ans.remove(0);
     }
     
     public boolean hasNext() {
-        return !q.isEmpty();
+        return !ans.isEmpty();
     }
 }
 
