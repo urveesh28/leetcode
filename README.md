@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1333-sort-the-jumbled-numbers](https://github.com/urveesh28/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1488-sort-integers-by-the-power-value](https://github.com/urveesh28/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urveesh28/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urveesh28/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/urveesh28/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1488-sort-integers-by-the-power-value](https://github.com/urveesh28/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/urveesh28/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
@@ -539,4 +541,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/urveesh28/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
