@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 
     private static int helper(int num,int[] dp){
         if(dp[num]!=-1)return dp[num];
@@ -42,6 +42,46 @@ class Solution {
         }
 
         return ans;
+
+    }
+}*/
+
+
+class Solution {
+    private static int helper(int n){
+        int c=0;
+        while(n!=1){
+            if((n & 1)==0){
+                n=n>>1;
+            }
+            else{
+                n=n*3+1;
+            }
+            c++;
+        }
+
+        return c;
+    }
+    
+    public int getKth(int lo, int hi, int k) {
+        Queue<int[]> q=new PriorityQueue<>((a,b)->{
+            if(a[0]!=b[0])return a[0]-b[0];
+            else{
+                return a[1]-b[1];
+            }
+        });
+
+        for(int i=lo;i<=hi;i++){
+            q.offer(new int[]{helper(i),i});
+        }
+
+        int ans=1;
+        while(k-->0){
+            ans=q.poll()[1];
+        }
+
+        return ans;
+
 
     }
 }
