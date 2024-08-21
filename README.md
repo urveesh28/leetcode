@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/urveesh28/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/urveesh28/leetcode/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/urveesh28/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/urveesh28/leetcode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/urveesh28/leetcode/tree/master/1036-rotting-oranges) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1242-matrix-block-sum](https://github.com/urveesh28/leetcode/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/urveesh28/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/urveesh28/leetcode/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/urveesh28/leetcode/tree/master/1242-matrix-block-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urveesh28/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
