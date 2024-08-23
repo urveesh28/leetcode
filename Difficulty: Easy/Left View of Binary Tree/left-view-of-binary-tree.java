@@ -123,14 +123,13 @@ class Node
 class Tree
 {
     //Function to return list containing elements of left view of binary tree.
-    
-    public static void helper(Node root,ArrayList<Integer> ans){
+    private static ArrayList<Integer> helper(Node root){
+        ArrayList<Integer> ans=new ArrayList<>();
         Queue<Node> q=new LinkedList<>();
-        q.offer(root);
         
+        q.offer(root);
         while(!q.isEmpty()){
             int size=q.size();
-            
             for(int i=0;i<size;i++){
                 Node curr=q.poll();
                 if(i==0){
@@ -145,20 +144,14 @@ class Tree
                     q.offer(curr.right);
                 }
             }
-            
         }
         
+        return ans;
     }
     
     ArrayList<Integer> leftView(Node root)
     {
       // Your code here
-      ArrayList<Integer> ans=new ArrayList<>();
-      if(root==null){
-          return ans;
-      }
-      
-      helper(root,ans);
-      return ans;
+      return helper(root);
     }
 }
