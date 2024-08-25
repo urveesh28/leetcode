@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/urveesh28/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/urveesh28/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/urveesh28/leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/urveesh28/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1333-sort-the-jumbled-numbers](https://github.com/urveesh28/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/urveesh28/leetcode/tree/master/0948-sort-an-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/urveesh28/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
+| [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/urveesh28/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
