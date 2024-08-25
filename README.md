@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/urveesh28/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urveesh28/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/urveesh28/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/urveesh28/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/urveesh28/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urveesh28/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/urveesh28/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/urveesh28/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/urveesh28/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urveesh28/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/urveesh28/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/urveesh28/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/urveesh28/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/urveesh28/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/urveesh28/leetcode/tree/master/0225-implement-stack-using-queues) |
