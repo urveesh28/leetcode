@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
+| [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1242-matrix-block-sum](https://github.com/urveesh28/leetcode/tree/master/1242-matrix-block-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/urveesh28/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/urveesh28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/urveesh28/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
