@@ -7,7 +7,6 @@ class NumArray {
         for(int i=1;i<prefix.length;i++){
             prefix[i]=prefix[i-1]+nums[i];
         }
-        System.out.println(Arrays.toString(prefix));
     }
     
     public int sumRange(int left, int right) {
