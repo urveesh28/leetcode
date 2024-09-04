@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/urveesh28/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/urveesh28/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/urveesh28/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/urveesh28/leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/urveesh28/leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urveesh28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/urveesh28/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
