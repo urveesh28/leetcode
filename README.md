@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2541-sum-of-number-and-its-reverse](https://github.com/urveesh28/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/urveesh28/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
 | ------- |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urveesh28/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-number-of-changing-keys](https://github.com/urveesh28/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/urveesh28/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Simulation
 |  |
 | ------- |
