@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/urveesh28/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/urveesh28/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/urveesh28/leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/urveesh28/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/urveesh28/leetcode/tree/master/2035-count-sub-islands) |
 ## Topological Sort
 |  |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/urveesh28/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/urveesh28/leetcode/tree/master/0838-design-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/urveesh28/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/urveesh28/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/urveesh28/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -467,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/urveesh28/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
