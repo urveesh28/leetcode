@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urveesh28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/urveesh28/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/urveesh28/leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/urveesh28/leetcode/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/urveesh28/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/urveesh28/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/urveesh28/leetcode/tree/master/0213-house-robber-ii) |
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/urveesh28/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1488-sort-integers-by-the-power-value](https://github.com/urveesh28/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
