@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1242-matrix-block-sum](https://github.com/urveesh28/leetcode/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/urveesh28/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/urveesh28/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/urveesh28/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/urveesh28/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1242-matrix-block-sum](https://github.com/urveesh28/leetcode/tree/master/1242-matrix-block-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/urveesh28/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/urveesh28/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/urveesh28/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/urveesh28/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/urveesh28/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/urveesh28/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/urveesh28/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/urveesh28/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
