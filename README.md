@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/urveesh28/leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/urveesh28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/urveesh28/leetcode/tree/master/0817-design-hashmap) |
 ## Quickselect
@@ -620,4 +622,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/urveesh28/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
