@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/urveesh28/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/urveesh28/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0874-backspace-string-compare](https://github.com/urveesh28/leetcode/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urveesh28/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/urveesh28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
+| [0874-backspace-string-compare](https://github.com/urveesh28/leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/urveesh28/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/urveesh28/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/urveesh28/leetcode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/urveesh28/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urveesh28/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/urveesh28/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/urveesh28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/urveesh28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/urveesh28/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/urveesh28/leetcode/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/urveesh28/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/urveesh28/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/urveesh28/leetcode/tree/master/2846-robot-collisions) |
