@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/urveesh28/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/urveesh28/leetcode/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/urveesh28/leetcode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/urveesh28/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/urveesh28/leetcode/tree/master/0596-classes-more-than-5-students) |
 ## Trie
