@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/urveesh28/leetcode/tree/master/0413-arithmetic-slices) |
 | [0502-ipo](https://github.com/urveesh28/leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/urveesh28/leetcode/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/urveesh28/leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/urveesh28/leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/urveesh28/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urveesh28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/urveesh28/leetcode/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/urveesh28/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/urveesh28/leetcode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/urveesh28/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
 |  |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/urveesh28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/urveesh28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0677-map-sum-pairs](https://github.com/urveesh28/leetcode/tree/master/0677-map-sum-pairs) |
+| [0729-my-calendar-i](https://github.com/urveesh28/leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/urveesh28/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/urveesh28/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/urveesh28/leetcode/tree/master/0817-design-hashmap) |
@@ -637,4 +640,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/urveesh28/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/urveesh28/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
