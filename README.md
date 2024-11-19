@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/urveesh28/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/urveesh28/leetcode/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/urveesh28/leetcode/tree/master/0539-minimum-time-difference) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/urveesh28/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/urveesh28/leetcode/tree/master/0179-largest-number) |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/urveesh28/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
