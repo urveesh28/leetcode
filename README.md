@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/urveesh28/leetcode/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/urveesh28/leetcode/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/urveesh28/leetcode/tree/master/1642-water-bottles) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/urveesh28/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/urveesh28/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/urveesh28/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/urveesh28/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/urveesh28/leetcode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/urveesh28/leetcode/tree/master/1642-water-bottles) |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/urveesh28/leetcode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/urveesh28/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/urveesh28/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/urveesh28/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
