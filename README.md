@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/urveesh28/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/urveesh28/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urveesh28/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/urveesh28/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2411-spiral-matrix-iv](https://github.com/urveesh28/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/urveesh28/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/urveesh28/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/urveesh28/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/urveesh28/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/urveesh28/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/urveesh28/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/urveesh28/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/urveesh28/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/urveesh28/leetcode/tree/master/0214-shortest-palindrome) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/urveesh28/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Segment Tree
 |  |
 | ------- |
