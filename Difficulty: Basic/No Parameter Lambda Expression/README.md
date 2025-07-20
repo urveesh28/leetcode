@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/no-parameter-lambda-expression/1?page=8&category=Java&sortBy=submissions">No Parameter Lambda Expression</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">You need to use lambda expression to print "Hello".<br>You need to complete the function&nbsp;<strong>helperFunction&nbsp;</strong>that does not take any&nbsp;<strong>argument</strong>. This function expects an object of Hello as a return&nbsp;<strong>type</strong>. Hello is an interface that has the member function sayHello. Your&nbsp;<strong>helperFunction</strong>&nbsp;uses&nbsp;<strong>lambda expression</strong>&nbsp;to implement the&nbsp;<strong>sayHello&nbsp;</strong>within&nbsp;<strong>helperFunction&nbsp;</strong>itself. Then you&nbsp;<strong>return&nbsp;</strong>the object. The&nbsp;<strong>driver code&nbsp;</strong>will call the sayHello method using the returned object.<br></span></p>
+<blockquote>
+<p><strong><span style="font-size: 18px;">Lambda Expression :- <a href="https://www.geeksforgeeks.org/lambda-expressions-java-8/" target="_blank" rel="noopener">https://www.geeksforgeeks.org/lambda-expressions-java-8/</a></span></strong></p>
+</blockquote>
+<p><span style="font-size: 18px;"><strong>Example:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>No Input
+</span><span style="font-size: 18px;"><strong>Output: </strong>Hello</span>
+</pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Java</code>&nbsp;<code>Java-Collections</code>&nbsp;
