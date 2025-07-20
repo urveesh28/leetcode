@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/tie-breaker/1?page=8&category=Java&sortBy=submissions">Tie Breaker</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an<strong> </strong>array of names <strong>arr[]</strong> of candidates in an election. A candidate name in array represents a <strong>vote casted</strong> to the candidate. You need to find the <strong>candidate </strong>with<strong> maximum votes </strong>recieved in the election. It may happen that two or more candidates may have<strong> same votes</strong>, in that case you need to return the name of the&nbsp;candidate which comes<strong> first lexicographically</strong> in dictionary.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = ["Turin", "Nick", "Turin", "Nick"]</span>
+<span style="font-size: 18px;"><strong>Output: </strong>Nick</span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>Both have the same 2 number of votes but Nick comes<strong> </strong>first lexicographically.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = ["John", "Shushma", "Rajnath"]</span>
+<span style="font-size: 18px;"><strong>Output: </strong>John </span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>All the three have same number of votes of 1.<strong> </strong>Lexicographically John comes first.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints</strong><br>1 &lt;= arr.size() &lt;= 10<sup>4</sup><br></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Java</code>&nbsp;<code>STL</code>&nbsp;<code>Java-Collections</code>&nbsp;
