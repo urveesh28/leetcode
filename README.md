@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/urveesh28/leetcode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/urveesh28/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/urveesh28/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/urveesh28/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/urveesh28/leetcode/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/urveesh28/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/urveesh28/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/urveesh28/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/urveesh28/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/urveesh28/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/urveesh28/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/urveesh28/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
