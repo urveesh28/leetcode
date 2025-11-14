@@ -1,16 +1,19 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int[] res=new int[2];
+        int[] map=new int[nums.length-2];
+        int[] ans=new int[2];
         int k=0;
-        boolean[] map=new boolean[nums.length];
-        for(int i=0;i<nums.length;i++){
-            if(!map[nums[i]]){
-                map[nums[i]]=true;
-            }
-            else{
-                res[k++]=nums[i];
+        for(int i : nums){
+            map[i]++;
+        }
+
+        for(int i=0;i<map.length;i++){
+            if(map[i]>1){
+                ans[k++]=i;
             }
         }
-        return res;
+
+        return ans;
+
     }
 }
